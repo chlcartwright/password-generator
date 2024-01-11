@@ -5,6 +5,6 @@
  Python3
 
  ### Future Features
- - Select from a range of generation methods
  - include capitalised letters + numbers
- - settings files
+ - GUI
+
